@@ -1,0 +1,10 @@
+# Ignore ONLY Firebase Functions folder at root
+/functions/
+
+# Ignore Firebase config files
+/firebase.json
+/.firebaserc
+/.firebase/
+
+# Ignore logs
+firebase-debug.log
